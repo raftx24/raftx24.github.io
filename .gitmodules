@@ -1,0 +1,10 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/anatole"]
+	path = themes/anatole
+	url = https://github.com/lxndrblz/anatole.git
+[submodule "raftx24.github.io"]
+	path = raftx24.github.io
+	url = git@github.com:raftx24/raftx24.github.io.git
+	branch = master
